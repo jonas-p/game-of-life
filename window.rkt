@@ -45,14 +45,3 @@
        [title title]
        [width width] [height height]
        [scale scale]))
-
-;(define win (new window%
-                 ;[title "Game of Life"]
-                 ;[width 100] [height 100]
-                 ;[scale 3]))
-
-;(thread (lambda ()
-          ;(for ([i 100])
-            ;(send win set i i #t)
-            ;(send win refresh)
-            ;(sleep 0.5))))
